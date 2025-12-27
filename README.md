@@ -37,6 +37,7 @@ Before you begin, ensure you have the following installed:
 * [Node.js](https://nodejs.org/) (v14 or higher)
 * [MySQL Server](https://dev.mysql.com/downloads/mysql/)
 * [Git](https://git-scm.com/)
+* [xampp](https://www.apachefriends.org/download.html) (port 3306 for mysql )
 
 ---
 
