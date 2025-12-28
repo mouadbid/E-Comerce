@@ -58,3 +58,5 @@ npm start
 
 ```
 
+#for the full version with containers and more options contact me : mouad2005.bidari@gmail.com
+
